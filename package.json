@@ -1,0 +1,16 @@
+{
+  "name": "ms_bags",
+  "version": "1.0.0",
+  "description": "pizza order",
+  "repository": {
+    "type": "git",
+    "url": "y"
+  },
+  "license": "MIT",
+  "author": "nic davis",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
